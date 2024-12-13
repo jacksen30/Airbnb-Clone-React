@@ -22,3 +22,25 @@ body {
 .navbar__logo {
   height: 35px;
 }
+
+section {
+  padding: 20px;
+}
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-section__image {
+  max-width: 400px;
+  align-self: center;
+}
+
+.hero-section--title {
+
+}
+
+.hero-section--paragraph {
+  
+}
